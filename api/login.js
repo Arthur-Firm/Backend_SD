@@ -1,7 +1,7 @@
 // Função serverless na Vercel (Node.js)
 // Lida com CORS e com JSON vindo do front
 
-const url_permitido = "https://SEU-USUARIO.github.io"; 
+const url_permitido = "https://arthur-firm.github.io/FrontEnd/"; 
 const EMAIL = "teste@email.com";
 const SENHA = "123456";
 
