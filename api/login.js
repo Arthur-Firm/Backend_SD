@@ -2,8 +2,8 @@
 // Lida com CORS e com JSON vindo do front
 
 const url_permitido = "*"; 
-const EMAIL = "teste@email.com";
-const SENHA = "123456";
+const EMAIL = "admin@email.com";
+const SENHA = "1234";
 
 function setCors(res) {
   res.setHeader("Access-Control-Allow-Origin", url_permitido); // ou "*" se for demo
